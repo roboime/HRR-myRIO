@@ -1,0 +1,2 @@
+#A pasta FPGA Bitfiles possui arquivos binários gerados em cada compilação. Não deve ir para o repositório
+FPGA\ Bitfiles/

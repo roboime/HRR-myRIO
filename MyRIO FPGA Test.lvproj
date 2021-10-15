@@ -2093,6 +2093,7 @@ AddOutputFilter chunkFilter
 		<Item Name="HRR-TorqueEnable.vi" Type="VI" URL="../HRR-TorqueEnable.vi"/>
 		<Item Name="HRR-MoveMultiplex.vi" Type="VI" URL="../HRR-MoveMultiplex.vi"/>
 		<Item Name="HRR-Reorder.vi" Type="VI" URL="../HRR-Reorder.vi"/>
+		<Item Name="HRR-Command.vi" Type="VI" URL="../Debug/HRR-Command.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="myRIO Generic Hardware Reference.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/Utilities/typedefs/myRIO Generic Hardware Reference.ctl"/>
